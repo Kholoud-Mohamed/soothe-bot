@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "910982850712",
+    "project_id": "graduation-mental-chatbot",
+    "storage_bucket": "graduation-mental-chatbot.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910982850712:android:91935e4af4cb32db17c8ed",
+        "android_client_info": {
+          "package_name": "com.example.mapfeature_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIfig72blEDoWd2evisRUZjSrbd9JqZLg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
